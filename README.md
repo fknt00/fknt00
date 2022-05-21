@@ -2,7 +2,6 @@
 
 - Tenho experiência com programação em Python e na Linguagem C.
 - Atualmente, estou estudando bancos de dados - especificamente, o PostgreSQL.
-- Pronomes: ele/dele.
 
 <div align="center">
   <a href="https://github.com/fknt00">
